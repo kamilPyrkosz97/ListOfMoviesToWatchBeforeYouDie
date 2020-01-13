@@ -1,9 +1,6 @@
 WishList :
   Scott Pilgrim vs. the World
-  Gia (1998)
-  Pineapple Express
   No time to die.
-  
   Dr. No (1962)
   From Russia with Love (1963)
   Goldfinger (1964)
