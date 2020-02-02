@@ -1,9 +1,8 @@
 WishList :
   Recommended {
-    Anna - 2019 - Kasia
+    
   },
   My movies {
-    My picks
     No time to die.
     Dr. No (1962)
     From Russia with Love (1963)
@@ -39,7 +38,7 @@ Done :
   The Da Vinci Code // ++
   Zombieland (2009) // +
   Zombieland: Double Tap // +
-  
+  Anna - 2019 - ((KASIA))  // +++
   
   
   
