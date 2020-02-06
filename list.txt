@@ -3,7 +3,6 @@ WishList :
     
   },
   My movies {
-    spring breakers 2012
     No time to die.
     Dr. No (1962)
     From Russia with Love (1963)
@@ -41,6 +40,8 @@ Done :
   The Da Vinci Code // ++
   Zombieland (2009) // +
   Zombieland: Double Tap // +
+  
+  spring breakers (2012) ---
   
   
   
