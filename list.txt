@@ -3,6 +3,7 @@ WishList :
     
   },
   My movies {
+    Black Summer
     World War Z
     No time to die.
     Dr. No (1962)
