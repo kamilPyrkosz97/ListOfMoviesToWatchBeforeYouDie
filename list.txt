@@ -3,6 +3,7 @@ WishList :
     
   },
   My movies {
+    World War Z
     No time to die.
     Dr. No (1962)
     From Russia with Love (1963)
