@@ -1,6 +1,7 @@
 WishList :
   Recommended {
     Lilo & Stitch - 2002 - (( KASIA ))
+    The Shining (Lśnienie) - (( KASIA ))
   },
   My movies {
     The Beach (Niebiańska plaża) (2000)
@@ -21,6 +22,7 @@ Done :
   Contagion 2011  // +++
   World War Z // +++
   National Treasure (2004) // +++
+  Species - 1995 // +++
   
   The Da Vinci Code // ++
   Dumplin' 2018 // ++
