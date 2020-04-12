@@ -1,7 +1,7 @@
 WishList :
   Recommended {
     Lilo & Stitch - 2002 - (( KASIA ))
-    The Shining (Lśnienie) - (( KASIA ))
+   
   },
   My movies {
     The Beach (Niebiańska plaża) (2000)
@@ -31,6 +31,7 @@ Done :
   Zombieland (2009) // +
   Zombieland: Double Tap // +
   28 Tygodni Póżniej-28 Weeks Later (2007) // +
+  The Shining (Lśnienie) - (( KASIA )) // +
   
   spring breakers (2012) ---
   
