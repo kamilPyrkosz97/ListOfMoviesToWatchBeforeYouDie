@@ -1,3 +1,31 @@
+{
+  "BEST_MOVIES" : [
+    "Margin Call (2011)",
+    "The Big Short (2015)",
+    "Mr. & Mrs. Smith (2005)",
+    "Uncut Gems (2019)",
+    "Roman Polanski: A Film Memoir (2011)",
+    
+  ],
+  "GOOD_MOVIES" : [
+  
+  ],
+  "BAD_MOVIES" : [
+  
+  ],
+  "WISHLIST" : [
+  
+  ]
+}
+
+
+
+
+
+
+
+/*
+
 WishList :
   Recommended {
     Lilo & Stitch - 2002 - (( KASIA ))
@@ -16,10 +44,7 @@ WishList :
     The Secret Life of Walter Mitty (2013)
   },  
 Done :
-  Roman Polanski : A Film Memoir (Roman Polański: Moje życie)  // +++
-  Uncut Gems (2019) / +++
-  Mr. & Mrs. Smith // +++
-  Big short  // +++
+
   The mummy 1999  // +++
   Anna - 2019 - ((KASIA))  // +++
   Scott Pilgrim vs. the World   // +++
@@ -42,7 +67,7 @@ Done :
   
   spring breakers (2012) ---
   
-  
+*/
   
   
 
