@@ -1,73 +1,49 @@
 {
-  "BEST_MOVIES" : [
+
+  "BEST" : [
     "Margin Call (2011)",
     "The Big Short (2015)",
     "Mr. & Mrs. Smith (2005)",
-    "Uncut Gems (2019)",
+  ],
+  
+  "VERY_GOOD" : [
+    "The Bourne Identity (2002)",
+    "The Bourne Supremacy (2004)",
+    "The Bourne Ultimatum (2007)",
+    "The Bourne Legacy (2012)",
+    "Jason Bourne (2016)",
     "Roman Polanski: A Film Memoir (2011)",
+    "Uncut Gems (2019)",
+    "The mummy 1999",
+    "Anna 2019",
+    "World War Z",
+    "Scott Pilgrim vs. the World",
+    "Contagion 2011",
+    "The Secret Life of Walter Mitty (2013)",
+    "Final Destination (2000)",
+    "The Da Vinci Code",
+    "The Thaw 2009",
+    "National Treasure (2004)",
     
   ],
-  "GOOD_MOVIES" : [
   
+  "OK" : [
+    "Dumplin' 2018",
+    "Zombieland (2009)",
+    "Zombieland: Double Tap",
+    "Eight Legged Freaks 2002",
+    "Legally Blonde (2001)",
+    "Species (1995)",
+    "28 Weeks Later (2007)",
   ],
-  "BAD_MOVIES" : [
   
+  "NEVER_EVER_AGAIN" : [
+    "Spring breakers (2012)",
+    "The Shining",
   ],
-  "WISHLIST" : [
   
-  ]
 }
 
-
-
-
-
-
-
-/*
-
-WishList :
-  Recommended {
-    Lilo & Stitch - 2002 - (( KASIA ))
-  },
-  My movies {
-    Hunter Killer (2018)
-    The Beach (Niebiańska plaża) (2000)
-    The Bourne Identity (2002)
-    The Bourne Supremacy (2004)
-    The Bourne Ultimatum (2007)
-    The Bourne Legacy (2012)
-    Jason Bourne (2016)
-    Atlantis: The Lost Empire (2001)
-    National Treasure: Book of Secrets (2007)
-    Furious - The Legend Of Kolovrat
-    The Secret Life of Walter Mitty (2013)
-  },  
-Done :
-
-  The mummy 1999  // +++
-  Anna - 2019 - ((KASIA))  // +++
-  Scott Pilgrim vs. the World   // +++
-  Contagion 2011  // +++
-  World War Z // +++
-  National Treasure (2004) // +++
-  Final Destination (2000) // +++
-  
-  The Da Vinci Code // ++
-  Dumplin' 2018 // ++
-  Eight Legged Freaks (Atak pająków) 2002 // ++
-  The Shining (Lśnienie) (( KASIA )) // ++
-  Legally Blonde (2001) // ++
-  Species (1995) // ++
-  
-  Zombieland (2009) // +
-  Zombieland: Double Tap // +
-  28 Tygodni Póżniej-28 Weeks Later (2007) // +
-  The Thaw "ŚMIERTELNA ODWILŻ" (2009) // +
-  
-  spring breakers (2012) ---
-  
-*/
   
   
 
