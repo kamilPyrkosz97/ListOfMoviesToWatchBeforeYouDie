@@ -22,6 +22,7 @@
       "The Bourne Supremacy (2004)",
       "The Bourne Ultimatum (2007)",
       "The Da Vinci Code (2006)",
+      "The Decline (2020)",
       "The Secret Life of Walter Mitty (2013)",
       "The Thaw (2009)",
       "The mummy (1999)",
@@ -34,6 +35,7 @@
       "Dumplin' (2018)",
       "Eight Legged Freaks (2002)",
       "Legally Blonde (2001)",
+      "Ravenous (2017)",
       "Species (1995)",
       "Zombieland (2009)",
       "Zombieland: Double Tap (2019)"
