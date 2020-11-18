@@ -16,6 +16,8 @@
       "Final Destination (2000)",
       "Jason Bourne (2016)",
       "National Treasure (2004)",
+      "Pandora (2016)",
+      "Resident Evil (2002)",
       "Roman Polanski: A Film Memoir (2011)",
       "Scott Pilgrim vs. the World 2010)",
       "The Bourne Legacy (2012)",
@@ -35,6 +37,7 @@
       "Dumplin' (2018)",
       "Eight Legged Freaks (2002)",
       "Legally Blonde (2001)",
+      "I Am a Hero (2015)",
       "Ravenous (2017)",
       "Species (1995)",
       "Zombieland (2009)",
@@ -42,6 +45,7 @@
    ],
    
    "NEVER_EVER_AGAIN":[
+      "Hostile (2017)",
       "Spring breakers (2012)",
       "The Shining (1980)"
    ]
