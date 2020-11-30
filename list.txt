@@ -11,6 +11,7 @@
    ],
    
    "VERY_GOOD":[
+      "Blow (2001)",
       "Anna (2019)",
       "Contagion 2011",
       "Fight Club (1999)",
@@ -33,6 +34,8 @@
    ],
    
    "OK":[
+      "Green Zone (2010)",
+      "Peninsula (2020)",
       "Godzilla (2014)",
       "28 Weeks Later (2007)",
       "Dumplin' (2018)",
