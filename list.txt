@@ -1,7 +1,7 @@
 {
 
    "BEST":[
-      "Scott Pilgrim vs. the World 2010)",
+      "Scott Pilgrim vs. the World (2010)",
       "Forrest Gump (1994)",
       "Léon: The Professional (1994)",
       "Margin Call (2011)",
