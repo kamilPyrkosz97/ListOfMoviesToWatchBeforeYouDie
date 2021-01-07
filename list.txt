@@ -37,6 +37,7 @@
    ],
    
    "OK":[
+      "Carriers (Zabójczy wirus) (2009)",
       "Underwater (2020)",
       "Green Zone (2010)",
       "Peninsula (2020)",
@@ -53,6 +54,8 @@
    ],
    
    "NEVER_EVER_AGAIN":[
+      "Lucy (2014)",
+      "Cabin Fever (Śmiertelna gorączka) (2002)",
       "Hostile (2017)",
       "Spring breakers (2012)",
       "The Shining (1980)"
