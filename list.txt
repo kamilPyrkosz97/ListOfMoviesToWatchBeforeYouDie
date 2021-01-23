@@ -1,6 +1,7 @@
 {
 
    "BEST":[
+      "Fyre (2019)",
       "Scott Pilgrim vs. the World (2010)",
       "Forrest Gump (1994)",
       "Léon: The Professional (1994)",
