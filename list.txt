@@ -12,6 +12,7 @@
    ],
    
    "VERY_GOOD":[
+      "Moneyball (2011)",
       "Scarface (1983)",
       "Iron Man (2008)",
       "Crimson Tide (Karmazynowy przypływ) (1995)",
@@ -40,6 +41,7 @@
    ],
    
    "OK":[
+      "K-19: The Widowmaker (2002)",
       "Carriers (Zabójczy wirus) (2009)",
       "Underwater (2020)",
       "Green Zone (2010)",
