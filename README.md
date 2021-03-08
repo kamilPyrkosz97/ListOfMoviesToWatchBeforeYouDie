@@ -1,6 +1,7 @@
 {
 
    "BEST":[
+      "Knives Out (Na noże) (2019)",
       "Fyre (2019)",
       "Scott Pilgrim vs. the World (2010)",
       "Forrest Gump (1994)",
@@ -12,6 +13,10 @@
    ],
    
    "VERY_GOOD":[
+      "Sniper: Ultimate Kill (Snajper: Ostatni Strzał) (2017)",
+      "The Sum of All Fears (Suma wszystkich strachów) (2002)",
+      "The Break-Up (Sztuka zrywania) (2006)",
+      "Secretary (Sekretarka) (2002)",
       "Moneyball (2011)",
       "Scarface (1983)",
       "Iron Man (2008)",
@@ -41,6 +46,8 @@
    ],
    
    "OK":[
+      "Bad Teacher (Zła kobieta) (2011)",
+      "Extraction (2020)",
       "As Above, So Below (2014)",
       "K-19: The Widowmaker (2002)",
       "Carriers (Zabójczy wirus) (2009)",
